@@ -2,8 +2,8 @@
   <li>👋 Hi, I'm <b>Kranti Ranpise</b></li>
   <li>🎓 I'm a Computer Engineer, interested in coding and emerging technologies</li>
   <li>🔭 I'm currently pusuing PG-DAC from IET,pune</li>
-  <li>✨ </li>
-  <li>🖥️ </li>
+  <li>✨ "More tech, more possibilities"</li>
+  <li>🖥️ "Talk is cheap, show me the code"</li>
 </ul>
 
 
